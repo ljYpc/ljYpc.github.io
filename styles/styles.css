@@ -114,7 +114,7 @@ x-sign:nth-of-type(6) {
     font-family: Kumar One Outline;
 }
 
-x-sign:nth-of-type(5) {
+x-sign:nth-of-type(2) {
     color: lightyellow;
     --color1: gold;
     --color2: firebrick;
@@ -160,7 +160,7 @@ x-sign:nth-of-type(8) {
     font-family: Monoton;
 }
 
-x-sign:nth-of-type(2) {
+x-sign:nth-of-type(5) {
     color: lightyellow;
     --color1: yellow;
     --color2: gold;
