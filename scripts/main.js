@@ -121,7 +121,7 @@ setInterval(function () {
     }
     var box = document.getElementById("time");
     //var x = document.getElementById("myAudio").autoplay;
-    box.innerHTML = '我们在一起'+year + "年" + month + "个月" + day + "天" + hour + "小时" + minite + "分钟" + second+"秒啦"
+    box.innerHTML = '我们在一起'+year + "年" + month + "个月" + "零"+day + "天" + hour + "小时" + minite + "分钟" + second+"秒啦"
         +"<br/>"+"你已经"+year1+"岁"+month + "个月" + "零" +day + "天了哦宝贝" ;
 }, 1000);     //setInterval(fn,i) 定时器，每隔i秒执行fn
 
